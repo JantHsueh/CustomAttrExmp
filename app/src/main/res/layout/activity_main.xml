@@ -14,8 +14,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:custom_color1="#ff000000"
-        style="@style/myStyle"
+        app:custom_color1="#0008fc"
+        style="@style/layout_style"
         >
 
     </com.chuyun.exm.customattrexmp.views.CustomView>
